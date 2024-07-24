@@ -1,0 +1,15 @@
+ <img src="/zz.png" alt="zobzob" class="zobzob">
+
+ .div1 {
+    width: 50%;
+    float: right;
+}
+
+.zobzob {
+    align-items: center;
+    width: 600px;
+    height: 600px;
+}
+
+
+'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
